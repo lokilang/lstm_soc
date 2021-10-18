@@ -9,7 +9,7 @@ authors:
   given-names: "Gilang Nugraha Putu"
 title: "{LSTM} for State of Charge Estimation of Lithium Polymer Battery on Jetson Nano"
 preferred-citation:
-  type: inproceedings
+  type: conference-paper
 - family-names: "Hantono"
   given-names: "Bimo Sunarfri"
 - family-names: "Cahyadi"
