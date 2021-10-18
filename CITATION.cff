@@ -10,7 +10,7 @@ authors:
 title: "LSTM for SoC Estimation of Lithium Polymer Battery"
 url: "https://github.com/lokilang/lstm_soc"
 preferred-citation:
-  type: inproceedings
+  type: conference-paper
   authors:
   - family-names: "Hantono"
     given-names: "Bimo Sunarfri"
