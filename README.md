@@ -1,6 +1,6 @@
 [![Documentation](https://img.shields.io/badge/Documentation-github-brightgreen.svg?style=for-the-badge)](https://github.com/lokilang/lstm_soc/)
 
-## Reference
+## How to Cite
 If you are using this work for academic purposes, please cite as
 
 ```
